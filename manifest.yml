@@ -1,5 +1,5 @@
 applications:
-- name: cscmaroc10
+- name: something_random
   memory: 125M
   instances: 1
   domain: mybluemix.net
